@@ -1,3 +1,9 @@
 Git is a version control tool
 Git is a distribute manage version
 add a new line to it
+
+#mydev2添加内容
+function mydev2(int a){
+	system.out.println("勤奋是实现自己的重要途径！");
+}
+mydev2
