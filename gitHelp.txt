@@ -7,3 +7,5 @@ function mydev2(int a){
 	system.out.println("勤奋是实现自己的重要途径！");
 }
 mydev2
+
+master add a line
