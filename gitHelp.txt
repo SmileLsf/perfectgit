@@ -9,3 +9,4 @@ function mydev2(int a){
 mydev2
 
 master add a line
+add a new dev
